@@ -1,6 +1,6 @@
 # Conceptual-Recurrence-Plotting-in-R
 
-This is a R code for implementing conceptual recurrence plotting (CRP) in R. 
+This is a R code for implementing conceptual recurrence plotting (CRP). 
 
 To see its implementation in analyzing psychotherapy transcripts, refer to my article here (LINK TO THE ARTICLE AFTER PUBLISHING).
 
